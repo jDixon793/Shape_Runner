@@ -1,0 +1,39 @@
+Shape Runner TODO
+
+
+
+
+
+
+
+
+
+-Achievements
+	Check Yin Yang amount
+
+Audio
+-jump audio
+-music
+-sound controls
+
+
+GUI buttons
+-IAP (remove ads)
+-Rate button
+
+
+//process for adding new shapes
+-create the shape as a png with a transparent background pref 100x 100 with a white shape
+-create a material for the color of the shape
+-copy an existing shape prefab
+-rename the prefab, change the source image and add the new material
+-adjust the 2D polygon collider to appropriate proportions
+-save the prefab
+-add to the player prefab array in the SpawnController
+
+
+//adding new shape to GUI
+-copy an old shape button and change its name
+-change the source image along with the matching color
+-change the value in the OnClick() field the the cosponsoring value in the SpawnController
+-On the Cost field change the value to the desired amount

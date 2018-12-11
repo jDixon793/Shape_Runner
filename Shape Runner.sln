@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shape Runner.Plugins", "Shape Runner.Plugins.csproj", "{324FF518-355E-EB09-E1B4-10A0A0CB4542}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shape Runner", "Shape Runner.csproj", "{17C87C72-FDBF-A452-7732-C99A2908B00D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shape Runner.Editor.Plugins", "Shape Runner.Editor.Plugins.csproj", "{93A20359-4B76-131F-2574-5E4F87491D28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shape Runner.Editor", "Shape Runner.Editor.csproj", "{8BA3D489-4B41-CADB-DCC7-5E19EC0C2A77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{324FF518-355E-EB09-E1B4-10A0A0CB4542}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{324FF518-355E-EB09-E1B4-10A0A0CB4542}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{324FF518-355E-EB09-E1B4-10A0A0CB4542}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{324FF518-355E-EB09-E1B4-10A0A0CB4542}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17C87C72-FDBF-A452-7732-C99A2908B00D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17C87C72-FDBF-A452-7732-C99A2908B00D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17C87C72-FDBF-A452-7732-C99A2908B00D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17C87C72-FDBF-A452-7732-C99A2908B00D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93A20359-4B76-131F-2574-5E4F87491D28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93A20359-4B76-131F-2574-5E4F87491D28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93A20359-4B76-131F-2574-5E4F87491D28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93A20359-4B76-131F-2574-5E4F87491D28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BA3D489-4B41-CADB-DCC7-5E19EC0C2A77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BA3D489-4B41-CADB-DCC7-5E19EC0C2A77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BA3D489-4B41-CADB-DCC7-5E19EC0C2A77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BA3D489-4B41-CADB-DCC7-5E19EC0C2A77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

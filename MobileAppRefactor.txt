@@ -1,0 +1,7 @@
+Use the ShapeRunner code and general set-up and port it over to KnightCrawler
+I want achivements, leaderboards, cloud saves and anything else that Google offers (Maybe even a co-op mode but thats a strech goal)
+Clean up the code and add good comments so I can post parts and not have to explain, also for you in like 5 years
+Utlimately I want to be able to charge for KnightCrawler which will take some art overhauls (can't steal Link)
+May end up paying an art guy to make everything sexy but I will do the rough art myself
+Monitize lightly, Interstitial on Death, banner on start screen, add-free version, purchasable cosmetics (not pay to win/ only 1 currency) 
+
